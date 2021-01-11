@@ -1,1 +1,1 @@
-web: gunicorn rsoorya-taskmate.wsgi
+web: gunicorn taskmate.wsgi
